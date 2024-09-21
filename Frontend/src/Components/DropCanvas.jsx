@@ -4,9 +4,14 @@ import { Container } from "./Container";
 const DropCanvas = () => {
   return (
     <Frame>
-      <Element is={Container} canvas>
-        
+      <Element is={Container}  canvas>
+       
+       
+
       </Element>
+      
+
+      
     </Frame>
   );
 };
